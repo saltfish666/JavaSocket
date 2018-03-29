@@ -27,3 +27,5 @@ public class Client2 {
         //client.close();
     }
 }
+
+//给每一个客户端一个消息队列？？？
